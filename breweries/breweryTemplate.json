@@ -1,0 +1,16 @@
+{
+    "brewery_id": 0,
+    "brewery_name": "Brewery Name",
+    "brewery_slug": "brewery-slug",
+    "country_name": "CA",
+    "contact": {
+      "url": "http://"
+    },
+    "location": {
+      "brewery_address": "123 Brewery Road",
+      "brewery_city": "",
+      "brewery_state": "",
+      "brewery_lat": 0,
+      "brewery_lng": 0
+    }
+  }

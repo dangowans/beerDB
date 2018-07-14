@@ -1,0 +1,16 @@
+{
+    "brewery_id": 0,
+    "brewery_name": "Ballast Point Brewing Company",
+    "brewery_slug": "ballast-point",
+    "country_name": "US",
+    "contact": {
+      "url": "http://www.ballastpoint.com/"
+    },
+    "location": {
+      "brewery_address": "",
+      "brewery_city": "San Diego",
+      "brewery_state": "CA",
+      "brewery_lat": 0,
+      "brewery_lng": 0
+    }
+  }

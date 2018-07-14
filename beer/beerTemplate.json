@@ -1,0 +1,9 @@
+{
+    "bid": 0,
+    "beer_name": "Beer Name",
+    "beer_abv": 5.0,
+    "beer_ibu": 25,
+    "beer_style": "",
+    "beer_slug": "beer-slug",
+    "brewery": "brewery-slug"
+  }
